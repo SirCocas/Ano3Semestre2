@@ -1,0 +1,3 @@
+--CREATE TABLE HelloS (MsdID INT PRIMARY KEY, MsgSubject VARCHAR(30) NOT NULL);
+--INSERT INTO HelloS Values (1245, 'Ola tudo bem');
+SELECT * FROM HelloS

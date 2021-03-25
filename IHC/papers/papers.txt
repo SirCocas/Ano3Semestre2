@@ -1,0 +1,160 @@
+IEEE Virtual Reality Conference:
+
+Haptics and Perception
+
+- Remapped Physical-Virtual Interfaces with Bimanual Haptic Retargeting
+Utilização de comandos de 2 mãos + mapeamento de single buttons para vários em ambientes VR
+(não me parece muuuito giro, mas é uma hipótese)
+
+- FleXeen: Visually Manipulating Perceived Fabric Bending Stiffness in Spatial Augmented Reality
+Criação de uma solução que simula manipulação de panos
+(eh)
+
+- Effects of Stereoscopic Viewing and Haptic Feedback, Sensory-Motor Congruence and Calibration on Near-Field Fine Motor Perception-Action Coordination in Virtual Reality
+Testa como a perceção de profundidade muda a itneração
+(parece giro, maybe I'm biased porque perceção de profundidade fucked)
+
+- Visual Manipulation for Underwater Drag Force Perception in Immersive Virtual Environments
+Pressão de água em ambientes VR
+(somewhat giro mas... eh)
+
+- Estimating Detection Thresholds for Desktop-Scale Hand Redirection in Virtual Reality
+Estudo de como diferentes modos de hand warping alteram a UX
+(parece giro mas... eh)
+
+
+Collaboration
+
+- Characterizing Asymmetric Collaborative Interactions in Virtual and Augmented Realities
+Estudo de como ambientes diferentes (AR e VR) interagem em termos de colaboração
+(parece giro mas... eh)
+
+- Immersive Telepresence and Remote Collaboration using Mobile and Wearable Devices
+Criação de um ambiente de hologramas ao contrário (parece que estás lá mas não estás)
+(kinda cool, actually)
+
+- Multi-Ray Jumping: Comprehensible Group Navigation for Collocated Users in Immersive Virtual Reality
+Lida com a confusão que costuma ser lidar com saltos
+(eh)
+
+- Dataspace: A Reconfigurable Hybrid Reality Environment for Collaborative Information Analysis
+Criação de um "do all" virtual Environment
+(eh)
+
+Training and Learning
+
+! - Scale - Unexplored Opportunities for Immersive Technologies in Place-based Learning
+Visitas de estudo em VR
+(cool)
+
+! - Virtual Classmates: Embodying Historical Learners Messages as Learning Companions in a VR Classroom through Comment Mapping
+Aulas presenciais, mas em VR e com bots 
+(cool but what the fuck)
+
+! - iVRNote: Design, Creation and Evaluation of an Interactive Note-Taking Interface for Study and Reflection in VR Learning Environments
+Proporciona um método de tirar notas em aulas em VR 
+(pretty cool indeed)
+
+- Creating a Stressful Decision Making Environment for Aerial Firefighter Training in Virtual Reality
+Simulação de momentos de high risk high stress para firefighters e isso
+(what the fuck)
+
+- Ad-hoc study on soldiers calibration procedures in Virtual Reality
+something something french army
+(no)
+
+
+Visualization Tools and Applications
+
+- IATK: An Immersive Analytics Toolkit
+Graphs, but make them VR
+(somewhat cool)
+
+- GeoGate: Correlating Geo-Temporal Datasets Using an Augmented Reality Space-Time Cube and Tangible Interactions
+Dataset de dados geologicos de um local
+(eh)
+
+- Developing Virtual Reality Visualizations for Unsteady Flow Analysis of Dinosaur Track Formation using Scientific Sketching
+Estudo de dinossauros em VR e como os movimentos deles alteram geologicamente um local
+(not that cool but bonus points bc dinossaurs)
+
+- Non-Contact Thermo-Visual Augmentation by IR-RGB Projection
+Visualização em termos de estado termal de um objecto, mas em VR
+(eh)
+
+! - Exploration of an EEG-Based Cognitively Adaptive Training System in Virtual Reality
+VR learning, but make it ler as brainwaves para ver o que é mais difícil
+(cool but also wtf)
+
+
+Perception of Depth and Space
+
+- An Evaluation of Depth and Size Perception on Spherical Fish Tank Virtual Reality Display
+Estudo de como perceção fica diferente quando se trata de um aquário redondo
+(kinda weird but cool)
+
+! - Virtual Objects Look Farther on the Sides: The Anisotropy of Distance Perception in Virtual Reality
+Perceção de distância não é só para a frente
+(actually kinda cool as hell ngl)
+
+- Distance Judgments to On- and Off-Ground Objects in Augmented Reality
+Estudo de "arbítrio" de distâncias em AR, e como muda quando são coisas no chão ou a flutuar
+(eh)
+
+! - Mitigating Incorrect Perception of Distance in Virtual Reality through Personalized Rendering Manipulation
+Depth perception, mas bem estudada e de modo a ser diferente para cada um
+(cool as hell)
+
+! - Orientation Perception in Real and Virtual Environments
+Estuda como a perceção de orientação também é importante 
+(pretty cool, reminds me of space people)
+
+
+Applications
+
+- Investigating the Third Dimension for Authentication in Immersive Virtual Reality and in the Real World
+Seleção de semáforos para bot detection (?) mas em VR e com casas 
+(eh)
+
+! - The Effects of Stereopsis and Immersion on Bimanual Assembly Task in a Virtual Reality System
+Estudo de como osteoporose afeta a utilização de comandos bimanuais
+(are you kidding me???? thas cool)
+
+- Empowering Young Job Seekers with Virtual Reality
+Criação de ambientes internship-like em VR que informam malta que queira trabalhar na área
+(giro)
+
+! - Functional Workspace Optimization via Learning Personal Preferences from Virtual Experiences
+Interior design com cálculo de valor
+(pretty cool)
+
+- VR as a Content Creation Tool for Film Previsualisation
+Blender em VR mas mais fácil
+(eh)
+
+
+Haptics and Vibrotactiles
+
+- Modulating Fine Roughness Perception of Vibrotactile Textured Surface using Pseudo-haptic Effect
+Perceção de roughness de superfícies
+(eh)
+
+- TacTiles: Dual-mode Low-power Electromagnetic Actuators for Rendering Continuous Contact and Spatial Haptic Patterns in VR´
+Perceção de contacto
+(eh)
+
+
+
+Mobile
+
+! - Exploring the Use of Fingerprint Sensor Gestures for Unlock Journaling: A Comparison With Slide-to-X
+logging de journaling no processo de desbloqueio via fingerprint -- bom para coisas que requiram muitos dados muitas vezes, como logs de mood
+
+! - Private Reader: Using Eye Tracking to Improve Reading Privacy in Public Spaces
+bloqueia texto que não estás a ler
+
+! - Tiger: Wearable Glasses for the 20-20-20 Rule to Alleviate Computer Vision Syndrome
+deteta movimento dos olhos e vai dando avisos para seguir a regra 20-20-20 (a cada 20min de ecrã olhar 20s para um objeto a 20ft)
+
+
+
