@@ -1,0 +1,16 @@
+(x) GNS intro - guião 1
+(x) access dist - guião 2
+(x) link aggregation - guião 2.1
+(x) internal routing - guião 3
+(x) PBR - guião 3.2
+(x) tunnels - guião 4
+(x) ipsec - guião 5
+(x) 802.1X - guião 5.1
+(x) Firewalls - guião 5.2
+(x) SNMP - guião 6
+(x) Python SNMP - guião 6.1 
+
+
+EXTRAS
+(x) NAT_SNAT_DRoutes
+(x) multidomain OSPF routing with nat

@@ -1,0 +1,33 @@
+May 03 09:23:05.489 HYPERVISOR: Release 0.2.17-x86/Windows (tag 2017072410)
+May 03 09:23:05.489 HYPERVISOR: Started on IP = 127.0.0.1, TCP port = 55081.
+May 03 09:23:06.003 HYPERVISOR: exec_cmd: hypervisor version 
+May 03 09:23:06.006 HYPERVISOR: exec_cmd: hypervisor working_dir C:\Users\sofas\Documents\GitHub\Ano3Semestre2\AR\praticas\tunnels\project-files\dynamips 
+May 03 09:23:06.006 GENERAL: working_dir=C:\Users\sofas\Documents\GitHub\Ano3Semestre2\AR\praticas\tunnels\project-files\dynamips
+May 03 09:23:06.006 HYPERVISOR: exec_cmd: hypervisor working_dir C:\Users\sofas\Documents\GitHub\Ano3Semestre2\AR\praticas\tunnels\project-files\dynamips\535aac5d-bd4a-42ef-b507-164d6ecb2253 
+May 03 09:23:06.062 GENERAL: working_dir=C:\Users\sofas\Documents\GitHub\Ano3Semestre2\AR\praticas\tunnels\project-files\dynamips\535aac5d-bd4a-42ef-b507-164d6ecb2253
+May 03 09:23:06.062 HYPERVISOR: exec_cmd: vm create R1 1 c3725 
+May 03 09:23:06.066 VM: VM R1 created.
+May 03 09:23:06.066 HYPERVISOR: exec_cmd: vm set_con_tcp_port R1 5001 
+May 03 09:23:06.066 HYPERVISOR: exec_cmd: c3725 get_mac_addr R1 
+May 03 09:23:06.066 HYPERVISOR: exec_cmd: vm set_disk0 R1 0 
+May 03 09:23:06.066 HYPERVISOR: exec_cmd: vm set_exec_area R1 64 
+May 03 09:23:06.066 HYPERVISOR: exec_cmd: vm get_status R1 
+May 03 09:23:06.066 HYPERVISOR: exec_cmd: vm set_idle_pc R1 0x60a6a1e0 
+May 03 09:23:06.066 HYPERVISOR: exec_cmd: vm set_ios R1 C:/Users/sofas/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.image 
+May 03 09:23:06.066 HYPERVISOR: exec_cmd: c3725 set_mac_addr R1 c201.1ce0.0000 
+May 03 09:23:06.066 HYPERVISOR: exec_cmd: vm set_nvram R1 256 
+May 03 09:23:09.130 HYPERVISOR: exec_cmd: nio create_udp udp-1f45eb21-5bfe-4599-a8ed-bed9f80913b6 20003 127.0.0.1 20004 
+May 03 09:23:09.520 HYPERVISOR: exec_cmd: vm slot_add_nio_binding R1 0 0 udp-1f45eb21-5bfe-4599-a8ed-bed9f80913b6 
+May 03 09:23:09.520 HYPERVISOR: exec_cmd: vm get_status R1 
+May 03 09:23:09.590 HYPERVISOR: exec_cmd: nio create_udp udp-aa35ac30-a67e-4dae-9d02-64a972cecae2 20007 127.0.0.1 20008 
+May 03 09:23:09.590 HYPERVISOR: exec_cmd: vm slot_add_nio_binding R1 0 1 udp-aa35ac30-a67e-4dae-9d02-64a972cecae2 
+May 03 09:23:09.590 HYPERVISOR: exec_cmd: vm get_status R1 
+May 03 09:25:34.267 HYPERVISOR: exec_cmd: vm get_status R1 
+May 03 09:25:34.270 HYPERVISOR: exec_cmd: vm extract_config R1 
+May 03 09:25:34.597 HYPERVISOR: exec_cmd: vm get_status R1 
+May 03 09:25:34.599 HYPERVISOR: exec_cmd: vm extract_config R1 
+May 03 09:25:34.601 HYPERVISOR: exec_cmd: vm delete R1 
+May 03 09:25:34.601 VM: VM R1 destroyed.
+May 03 09:25:34.604 HYPERVISOR: exec_cmd: hypervisor stop 
+May 03 09:25:34.837 HYPERVISOR: Stopped.
+May 03 09:25:34.837 GENERAL: reset done.

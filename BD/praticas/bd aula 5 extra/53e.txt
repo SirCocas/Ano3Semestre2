@@ -1,0 +1,1 @@
+γ numRegFarm, farmacia; count(numPresc)-> prescricoes (prescricao ⨝ farmaco)

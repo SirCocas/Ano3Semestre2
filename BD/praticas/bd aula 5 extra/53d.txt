@@ -1,0 +1,1 @@
+σ numRegFarm = 906 (farmaco) ∩ pi  numRegFarm,nome,formula (farmaco ⨝ presc_farmaco)
